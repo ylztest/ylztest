@@ -2,7 +2,6 @@
 
 
 //  Copyright © 2016年 yanglongzhou. All rights reserved.
-//
 
 import UIKit
 
@@ -15,6 +14,7 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         
+       
     }
 
 
